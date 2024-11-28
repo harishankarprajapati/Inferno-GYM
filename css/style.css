@@ -1227,3 +1227,24 @@ vertical-align: middle;
   width: 65%;
   margin: auto;
 }
+.accordion-item {
+  background: transparent;
+  border: 0;
+}
+button.accordion-button.collapsed {
+  background: transparent;
+  border: 0;
+}
+.accordion-item:first-of-type .accordion-button {
+  background: transparent;
+  border: 0;
+}
+.accordion-button:not(.collapsed) {
+  background: transparent;
+}
+.accordion-button::after {
+  background-color: #fff;
+}
+.accordion-button:focus {
+  box-shadow: none;
+}

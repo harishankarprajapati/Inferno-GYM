@@ -686,7 +686,7 @@
   font-size: 20px;
 }
 .secptext p {
-  font-size: 18px;
+  font-size: 16px;
 }
 .secpolbg {
   padding: 40px 10px;
@@ -752,5 +752,12 @@
 .secnuutext {
   font-size: 33px;
 }
-
+button.accordion-button.collapsed {
+  background: transparent;
+  border: 0;
+  padding: 0 5px;
+}
+.secptext h4 {
+  font-size: 18px;
+}
 }
