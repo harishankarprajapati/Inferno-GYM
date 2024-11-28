@@ -757,6 +757,13 @@ button.accordion-button.collapsed {
   border: 0;
   padding: 0 5px;
 }
+.accordion-button:not(.collapsed) {
+  background: transparent;
+  padding: 0 5px;
+}
+.accordion-body{
+  padding: 0 5px;
+}
 .secptext h4 {
   font-size: 18px;
 }
