@@ -760,4 +760,7 @@ button.accordion-button.collapsed {
 .secptext h4 {
   font-size: 18px;
 }
+button.accordion-button {
+  padding-bottom: 20px !important;
+}
 }
