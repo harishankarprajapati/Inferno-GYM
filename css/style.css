@@ -1043,11 +1043,28 @@ padding: 50px 10px;
    font-size: 20px;
    color: #fff;
  }
+ .secptext p a{
+  font-family: 'Poppins';
+   font-size: 20px;
+   color: #FF5100;
+ }
  .secptext ul li{
+  font-family: 'Poppins';
+   font-size: 16px;
+   color: #fff;
+ }
+ .secptext ol li{
   font-family: 'Poppins';
    font-size: 16px;
    color: #fff;
  }
 .secpapol{
   padding-top: 20px;
+}
+button#back-to-up:hover {
+  color: #FF5100;
+  background: #fff;
+}
+button#back-to-up:hover i{
+  color: #FF5100; 
 }
