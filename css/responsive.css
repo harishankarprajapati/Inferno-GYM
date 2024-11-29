@@ -121,6 +121,11 @@
     padding: 10px 20px;
     border-radius: 30px;
   }
+  .secfooterbtn2 a {
+    font-size: 15px;
+    padding: 10px 20px;
+    border-radius: 30px;
+  }
 
   .secservtext h4 {
     font-size: 28px;
@@ -267,6 +272,12 @@
     padding: 10px 20px;
     border-radius: 30px;
   }
+  .secfooterbtn2 a {
+    font-size: 16px;
+    padding: 10px 20px;
+    border-radius: 30px;
+  }
+
 
   .menusec p a {
     font-size: 16px;
@@ -559,7 +570,10 @@
     padding-top: 40px;
     padding-bottom: 0px;
   }
-
+  .secfooterbtn2 {
+    padding-top: 40px;
+    padding-bottom: 0px;
+  }
   .socallink {
     padding-top: 40px;
     padding-bottom: 30px;
